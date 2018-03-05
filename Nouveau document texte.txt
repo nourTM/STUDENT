@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<p>i m herrrrrre</p>
-</head>
-<body>
-
-</body>
-</html>
